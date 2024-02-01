@@ -214,3 +214,9 @@ footer a{
     width: 60%;
     display: inline-block;
 }
+
+@media only screen and (max-width: 1026px) {
+    #section-2-hide {
+        display: none;
+    }
+}
