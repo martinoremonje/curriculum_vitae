@@ -44,7 +44,9 @@ h1{
 }
 
 h2{
-    margin-left: 38%;
+    text-align: center;
+    width: 200px;
+    margin-left: 42.2%;
     font-size: 30px;
     color: rgb(31, 30, 27);
     display: inline-block;
