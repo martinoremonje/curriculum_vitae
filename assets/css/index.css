@@ -13,6 +13,10 @@ body{
     background: linear-gradient(0deg, rgba(181,187,249,0.4542191876750701) 0%, rgba(255,255,255,0.8099614845938375) 100%);
 }
 
+.tenor-gif-embed{
+    margin-left: 15px;
+}
+
 a{
     text-decoration: none;
     font-size: 18px;
