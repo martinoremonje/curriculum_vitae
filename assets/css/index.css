@@ -44,9 +44,10 @@ h1{
 }
 
 h2{
-    text-align: center;
+    margin-left: 38%;
     font-size: 30px;
     color: rgb(31, 30, 27);
+    display: inline-block;
 }
 
 .contenedor-sections{
@@ -219,4 +220,4 @@ footer a{
     #section-2-hide {
         display: none;
     }
-}
+} 
